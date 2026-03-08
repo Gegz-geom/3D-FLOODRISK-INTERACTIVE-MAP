@@ -2,9 +2,9 @@
 
 A fully interactive 3D flood risk visualization for Makkah Al-Mukarramah, converting a multi-criteria GIS analysis into a deployable web map built with Mapbox GL JS.
 
-**[🌐 Live Demo → your-project.vercel.app](https://your-project.vercel.app)**
+https://3-d-floodrisk-interactive-map.vercel.app/
 
-![Makkah Flood Risk Map](assets/preview.png)
+
 
 ---
 
